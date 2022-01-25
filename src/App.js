@@ -1,10 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import bootstrap from "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+import Main from "./Main";
 
 function App() {
   return (
     <div className="App">
-      <h1>Covid Tracker</h1>
+      <Main />
     </div>
   );
 }
