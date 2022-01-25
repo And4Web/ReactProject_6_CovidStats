@@ -14,4 +14,8 @@ Technologies used in this project:
 
 5. axios for fetching COVID data from https://api.covid19api.com/summary
 
+6. datatables.net-dt
+
+7. jquery
+
 #Note: use of !important after some of the css properties.
